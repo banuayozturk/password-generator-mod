@@ -1,7 +1,6 @@
 # password-generator-mod
 
-## Deployed Application: 
-
+## Deployed Application: https://banuayozturk.github.io/password-generator-mod/
 ## Description: 
 This password generator project is modified of my password-generator repo.
 
